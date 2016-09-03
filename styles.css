@@ -1,0 +1,22 @@
+.h1 {
+    /*width: 30px;*/
+
+    /*padding: 25px;*/
+    text-align: center
+}
+
+.savedBooks {
+  border-style: groove;
+  width: 120px;
+  margin: 0px 480px 10px;
+}
+
+#resultsviewentry{
+  width: 385px;
+  border: 1px solid;
+  /*margin: : 200 200 200 200;*/
+}
+
+.search-bar {
+  margin: 0px 480px 50px;
+}
